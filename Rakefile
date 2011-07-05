@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "iris"
   gem.homepage = "http://github.com/astrails/iris"
   gem.license = "MIT"
-  gem.summary = %Q{Messaging system for Rails}
-  gem.description = %Q{Messaging system for Rails}
+  gem.summary = %Q{Messaging system for Rails (coming soon)}
+  gem.description = %Q{Messaging system for Rails (coming soon, not ready yet ;)}
   gem.email = "vitaly@astrails.com"
   gem.authors = ["Vitaly Kushner"]
   # dependencies defined in Gemfile

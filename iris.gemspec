@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Vitaly Kushner"]
   s.date = %q{2011-07-05}
-  s.description = %q{Messaging system for Rails}
+  s.description = %q{Messaging system for Rails (coming soon, not ready yet ;)}
   s.email = %q{vitaly@astrails.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "iris.gemspec",
     "lib/iris.rb",
     "spec/iris_spec.rb",
     "spec/spec_helper.rb"
@@ -33,7 +34,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
-  s.summary = %q{Messaging system for Rails}
+  s.summary = %q{Messaging system for Rails (coming soon)}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
